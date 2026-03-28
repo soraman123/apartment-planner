@@ -1,5 +1,5 @@
-import { useState, useRef, useEffect, useCallback } from “react”;
-import { supabase } from “./supabase”;
+import { useState, useRef, useEffect, useCallback } from "react";
+import { supabase } from "./supabase";
 
 const SEGMENTS = [
 { id: “furniture”, label: “Furniture”, sub: “Seating, storage & more” },
